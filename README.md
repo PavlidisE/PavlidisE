@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Computer Engineer graduate, specializing in c++ software development, keen to exploring new horizons.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavlidise)](https://github.com/pavlidise/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavlidise&theme=cobalt)](https://github.com/pavlidise/github-readme-stats)
 
 <!-- ![Evripidis' github stats](https://github-readme-stats.vercel.app/api?username=pavlidise) -->
 
