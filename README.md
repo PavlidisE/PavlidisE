@@ -25,6 +25,5 @@ Computer Engineer graduate, specializing in c++ software development, keen to ex
 
 
 ### 💬 Get in touch
-
-- [Email](mailto:evrispa@gmail.com)
-- [Linked In](https://www.linkedin.com/in/pavlidise/)
+[![](https://img.shields.io/badge/-Evripidis%20Pavlidis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavlidise/)](https://www.linkedin.com/in/pavlidise/)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=pavlidise.github.io&url=https%3A%2F%2Fpavlidise.github.io)](https://pavlidise.github.io)
