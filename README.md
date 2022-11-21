@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Computer Engineer graduate, specializing in c++ software development, keen to exploring new horizons.
+Computer Engineer graduate, currently specializing in java software development, keen to exploring new horizons.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavlidise&theme=cobalt)](https://github.com/pavlidise/github-readme-stats)
 
